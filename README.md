@@ -1,5 +1,6 @@
 *Sistema de Reservación de Citas para Clínica de Belleza*
 
+![Texto alternativo](https://github.com/kelogonzalez/clinicabelleza/blob/main/imagenportada.png)
 
 
 
