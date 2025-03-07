@@ -20,33 +20,18 @@ Acceso Multirol: Diferentes niveles de acceso para administradores, empleados y 
 Diseño Responsivo: Optimizado para dispositivos móviles, tabletas y computadoras de escritorio.
 
 🛠️ Tecnologías Utilizadas
-Frontend: React.js, Tailwind CSS
+Frontend: Html, Javascript, CSS
 
-Backend: Node.js, Express.js
+Backend: PHP
 
-Base de Datos: MongoDB
+Base de Datos: MySql
 
 Autenticación: JWT (JSON Web Tokens)
 
-Actualizaciones en Tiempo Real: Socket.io
+Integración de Pagos: Paypal (opcional)
 
-Integración de Pagos: Stripe (opcional)
+Despliegue: Apache
 
-Despliegue: Docker, AWS o Heroku
-
-
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
-
-Crea una nueva rama (git checkout -b feature/NombreDeTuFuncionalidad).
-
-Realiza tus cambios y haz commit (git commit -m 'Agrega una funcionalidad').
-
-Sube los cambios a la rama (git push origin feature/NombreDeTuFuncionalidad).
-
-Abre una solicitud de pull.
 
 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
