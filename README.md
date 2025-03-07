@@ -1,4 +1,4 @@
-**SISTEMA DE RESERVACIÓN DE CITTAS PARA CLÍNICA DE BELLEZA**
+**SISTEMA DE RESERVACIÓN DE CITAS PARA CLÍNICA DE BELLEZA**
 
 ![Texto alternativo](https://github.com/kelogonzalez/clinicabelleza/blob/main/imagenportada.png)
 
