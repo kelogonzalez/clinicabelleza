@@ -1,5 +1,8 @@
 *Sistema de Reservación de Citas para Clínica de Belleza*
 
+
+
+
 Bienvenido al Sistema de Reservación de Citas para Clínica de Belleza, una solución elegante y eficiente diseñada para simplificar el proceso de reservas en clínicas de belleza. Este sistema permite a los clientes programar, gestionar y cancelar citas con facilidad, mientras brinda al personal de la clínica herramientas poderosas para organizar y supervisar las operaciones diarias.
 
 ✨ Características
