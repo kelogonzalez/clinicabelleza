@@ -34,21 +34,6 @@ Integración de Pagos: Stripe (opcional)
 
 Despliegue: Docker, AWS o Heroku
 
-📂 Estructura del Proyecto
-Copy
-sistema-reservacion-clinica-belleza/
-├── client/                  # Código del frontend
-│   ├── public/              # Archivos estáticos
-│   ├── src/                 # Componentes y páginas de React
-│   └── ...                  
-├── server/                  # Código del backend
-│   ├── controllers/         # Lógica de negocio
-│   ├── models/              # Modelos de la base de datos
-│   ├── routes/              # Endpoints de la API
-│   └── ...
-├── .gitignore               # Archivos ignorados en Git
-├── README.md                # Este archivo
-└── ...
 
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
